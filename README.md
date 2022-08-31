@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hello! My name is Jeronimo Alderete👋
 
 I am a Web Developer and future Full Stack Developer. At this moment I am studying the 
