@@ -1,7 +1,7 @@
 Hello! My name is Jeronimo Alderete👋
 
-I am a Web Developer and future Full Stack Developer. At this moment I am studying the 
-Full Stack Developer career at CoderHouse. 
+I am a Web Developer and future Full Stack Developer. 
+At this moment I am studying the Full Stack Developer career at CoderHouse. 
 
 In addition, I am a Music Producer and sales consultant at a company called RRM FRAGANCIAS.
 
