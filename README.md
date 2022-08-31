@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jeroalderete/jeroalderete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello! My name is Jeronimo Alderete👋
 
 I am a Web Developer and future Full Stack Developer. At this moment I am studying the Full Stack Developer career at CoderHouse. 
@@ -24,3 +21,8 @@ APTITUDES
 ▪ Responsibility and seriousness when carrying out my tasks.
 ▪ Aptitude for teamwork.
 ▪ Willingness to learn and train professionally.
+
+<!--
+**jeroalderete/jeroalderete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
