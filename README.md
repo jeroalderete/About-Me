@@ -12,7 +12,7 @@ EDUCATION AND PROFESSIONAL TRAINING
 
 San Agustin School 03/2000 - - 11/2006
 
-OSED 03/2012 - 12/2014: Music Producer Course at T.E.C.S.O.N
+T.E.C.S.O.N 03/2012 - 12/2014: Music Producer tertiary.
 
 UADE – Business Administration 03/2007 – 11/2009.
 
