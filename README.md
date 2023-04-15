@@ -6,7 +6,7 @@ At this moment I am studying the Full Stack Developer career at CoderHouse.
 
 In addition, I am a Music Producer and sales consultant at a company called RRM FRAGANCIAS.
 
-I have knowledge of HTML5 | CSS3 | BOOTSTRAP | git | GITHUB | SASS | JAVASCRIPT | WORDPRESS | PHOTO SHOP | FIGMA.
+I have knowledge of HTML5 | CSS3 | BOOTSTRAP | git | GITHUB | SASS | JAVASCRIPT | REACT | WORDPRESS | PHOTOSHOP | FIGMA.
 
 EDUCATION AND PROFESSIONAL TRAINING
 
