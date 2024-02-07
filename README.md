@@ -1,24 +1,20 @@
 Hello! My name is Jeronimo Alderete👋
 
-I am a Web Developer and future Full Stack Developer.
+I am a Front End Web Developer specialized in Ecommerce.
 
-At this moment I am studying the Full Stack Developer career at CoderHouse. 
-
-In addition, I am a Music Producer and sales consultant at a company called RRM FRAGANCIAS.
-
-I have knowledge of HTML5 | CSS3 | BOOTSTRAP | git | GITHUB | SASS | JAVASCRIPT | REACT | WORDPRESS | PHOTOSHOP | FIGMA.
+I have knowledge of HTML5 | CSS3 | BOOTSTRAP | GIT | SASS | PHP | JAVASCRIPT | REACT | ASTRO  | MONGODB  | FIREBASE  | WORDPRESS | PHOTOSHOP | FIGMA  | DRUPAL  | SALEFORCE | 
 
 EDUCATION AND PROFESSIONAL TRAINING
 
-San Agustin School 03/2000 - - 11/2006
-
-T.E.C.S.O.N 03/2012 - 12/2014: Music Producer tertiary.
+T.E.C.S.O.N 03/2012 - 12/2014: Music Producer tertiary 
 
 UADE – Business Administration 03/2007 – 11/2009.
 
-Coder House 03/2022 – Currently studying Full Stack Developer.
+Coder House 03/2021 – Web Full Stack Developer.
 
-Complete Office Package Intermediate knowledge.
+Udemy Wordpress Theme Delopment
+
+LANGUAJE
 
 English Intermediate Knowledge
 
